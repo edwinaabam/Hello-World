@@ -1,7 +1,7 @@
 # Hello-World
 My first repository
 
-#About me
+## About me
 
 My name is Edwina Borteley Abam.  
 Working hard towards being PhinisheD.
